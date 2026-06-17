@@ -1,0 +1,5 @@
+{
+  "name": "Gym Days Tracker",
+  "description": "A modern, aesthetic gym log to track attendance, streaks, and workouts with local storage and insights.",
+  "requestFramePermissions": []
+}

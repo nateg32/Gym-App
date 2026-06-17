@@ -1,0 +1,129 @@
+{
+  "logs": [
+    {
+      "id": "retro-2026-01-13",
+      "date": "2026-01-13",
+      "workoutType": "Strength",
+      "durationMinutes": 40,
+      "intensity1to10": 7,
+      "bodyAreas": ["Upper"],
+      "exercises": [],
+      "notes": "Upper body session",
+      "createdAt": "2026-01-13T10:00:00.000Z",
+      "updatedAt": "2026-01-22T10:00:00.000Z"
+    },
+    {
+      "id": "retro-2026-01-14",
+      "date": "2026-01-14",
+      "workoutType": "Strength",
+      "durationMinutes": 40,
+      "intensity1to10": 7,
+      "bodyAreas": ["Upper"],
+      "exercises": [],
+      "notes": "Upper body session",
+      "createdAt": "2026-01-14T10:00:00.000Z",
+      "updatedAt": "2026-01-22T10:00:00.000Z"
+    },
+    {
+      "id": "retro-2026-01-15",
+      "date": "2026-01-15",
+      "workoutType": "Strength",
+      "durationMinutes": 40,
+      "intensity1to10": 7,
+      "bodyAreas": ["Lower"],
+      "exercises": [],
+      "notes": "Lower body session",
+      "createdAt": "2026-01-15T10:00:00.000Z",
+      "updatedAt": "2026-01-22T10:00:00.000Z"
+    },
+    {
+      "id": "retro-2026-01-16",
+      "date": "2026-01-16",
+      "workoutType": "Strength",
+      "durationMinutes": 40,
+      "intensity1to10": 7,
+      "bodyAreas": ["Arms", "Core"],
+      "exercises": [],
+      "notes": "Arms and Abs",
+      "createdAt": "2026-01-16T10:00:00.000Z",
+      "updatedAt": "2026-01-22T10:00:00.000Z"
+    },
+    {
+      "id": "retro-2026-01-17",
+      "date": "2026-01-17",
+      "workoutType": "Strength",
+      "durationMinutes": 40,
+      "intensity1to10": 7,
+      "bodyAreas": ["Shoulders", "Back"],
+      "exercises": [],
+      "notes": "Shoulders and Back",
+      "createdAt": "2026-01-17T10:00:00.000Z",
+      "updatedAt": "2026-01-22T10:00:00.000Z"
+    },
+    {
+      "id": "retro-2026-01-18",
+      "date": "2026-01-18",
+      "workoutType": "Rest",
+      "durationMinutes": 0,
+      "intensity1to10": 0,
+      "bodyAreas": [],
+      "exercises": [],
+      "notes": "Rest Day",
+      "createdAt": "2026-01-18T10:00:00.000Z",
+      "updatedAt": "2026-01-22T10:00:00.000Z"
+    },
+    {
+      "id": "retro-2026-01-19",
+      "date": "2026-01-19",
+      "workoutType": "Strength",
+      "durationMinutes": 40,
+      "intensity1to10": 8,
+      "bodyAreas": ["Upper"],
+      "exercises": [],
+      "notes": "Upper body session",
+      "createdAt": "2026-01-19T10:00:00.000Z",
+      "updatedAt": "2026-01-22T10:00:00.000Z"
+    },
+    {
+      "id": "retro-2026-01-20",
+      "date": "2026-01-20",
+      "workoutType": "Strength",
+      "durationMinutes": 40,
+      "intensity1to10": 8,
+      "bodyAreas": ["Upper"],
+      "exercises": [],
+      "notes": "Upper body session",
+      "createdAt": "2026-01-20T10:00:00.000Z",
+      "updatedAt": "2026-01-22T10:00:00.000Z"
+    },
+    {
+      "id": "retro-2026-01-21",
+      "date": "2026-01-21",
+      "workoutType": "Strength",
+      "durationMinutes": 40,
+      "intensity1to10": 8,
+      "bodyAreas": ["Lower"],
+      "exercises": [],
+      "notes": "Lower body session",
+      "createdAt": "2026-01-21T10:00:00.000Z",
+      "updatedAt": "2026-01-22T10:00:00.000Z"
+    },
+    {
+      "id": "retro-2026-01-22",
+      "date": "2026-01-22",
+      "workoutType": "Strength",
+      "durationMinutes": 40,
+      "intensity1to10": 8,
+      "bodyAreas": ["Arms", "Core"],
+      "exercises": [],
+      "notes": "Arms and Abs",
+      "createdAt": "2026-01-22T10:00:00.000Z",
+      "updatedAt": "2026-01-22T10:00:00.000Z"
+    }
+  ],
+  "settings": {
+    "theme": "system",
+    "dailyMessageEnabled": true,
+    "weeklyGoal": 5
+  }
+}

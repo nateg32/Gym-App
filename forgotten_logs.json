@@ -1,0 +1,70 @@
+{
+  "logs": [
+    {
+      "id": "forgotten-2026-01-23",
+      "date": "2026-01-23",
+      "workoutType": "Strength",
+      "durationMinutes": 40,
+      "intensity1to10": 7,
+      "bodyAreas": ["Shoulders", "Back"],
+      "notes": "Shoulder and back workout",
+      "createdAt": "2026-01-23T10:00:00.000Z",
+      "updatedAt": "2026-01-23T10:00:00.000Z"
+    },
+    {
+      "id": "fill-2026-01-24",
+      "date": "2026-01-24",
+      "workoutType": "Rest",
+      "durationMinutes": 0,
+      "intensity1to10": 0,
+      "bodyAreas": [],
+      "notes": "Bridging rest day",
+      "createdAt": "2026-01-24T10:00:00.000Z",
+      "updatedAt": "2026-01-24T10:00:00.000Z"
+    },
+    {
+      "id": "forgotten-2026-01-25",
+      "date": "2026-01-25",
+      "workoutType": "Rest",
+      "durationMinutes": 0,
+      "intensity1to10": 0,
+      "bodyAreas": [],
+      "notes": "Requested Rest Day",
+      "createdAt": "2026-01-25T10:00:00.000Z",
+      "updatedAt": "2026-01-25T10:00:00.000Z"
+    },
+    {
+      "id": "fill-2026-01-26",
+      "date": "2026-01-26",
+      "workoutType": "Rest",
+      "durationMinutes": 0,
+      "intensity1to10": 0,
+      "bodyAreas": [],
+      "notes": "Bridging rest day",
+      "createdAt": "2026-01-26T10:00:00.000Z",
+      "updatedAt": "2026-01-26T10:00:00.000Z"
+    },
+    {
+      "id": "forgotten-2026-01-27",
+      "date": "2026-01-27",
+      "workoutType": "Strength",
+      "durationMinutes": 45,
+      "intensity1to10": 7,
+      "bodyAreas": ["Full Body"],
+      "notes": "Requested Full Body session",
+      "createdAt": "2026-01-27T10:00:00.000Z",
+      "updatedAt": "2026-01-27T10:00:00.000Z"
+    },
+    {
+      "id": "forgotten-2026-01-28",
+      "date": "2026-01-28",
+      "workoutType": "Strength",
+      "durationMinutes": 45,
+      "intensity1to10": 7,
+      "bodyAreas": ["Upper"],
+      "notes": "i wasnt motivated at the start but eventually got into it",
+      "createdAt": "2026-01-28T10:00:00.000Z",
+      "updatedAt": "2026-01-28T10:00:00.000Z"
+    }
+  ]
+}

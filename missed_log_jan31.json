@@ -1,0 +1,15 @@
+{
+  "logs": [
+    {
+      "id": "forgotten-2026-01-31",
+      "date": "2026-01-31",
+      "workoutType": "Strength",
+      "durationMinutes": 33,
+      "intensity1to10": 8,
+      "bodyAreas": ["Core", "Arms"],
+      "notes": "it was burning",
+      "createdAt": "2026-01-31T10:00:00.000Z",
+      "updatedAt": "2026-01-31T10:00:00.000Z"
+    }
+  ]
+}
